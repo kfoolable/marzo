@@ -2,12 +2,12 @@
 <x-nav/>
 
 <div class="overflow-hidden rounded-lg border border-gray-200 shadow-md m-5">
-    <table class="w-full border-collapse bg-white text-left text-sm text-gray-500">
-      <thead class="bg-gray-50">
+    <table class="table table-striped">
+      <thead class="thead-light">
         <tr>
           <th scope="col" class="px-6 py-4 font-medium text-gray-900">Last Name</th>
           <th scope="col" class="px-6 py-4 font-medium text-gray-900">First Name</th>
-          <th scope="col" class="px-6 py-4 font-medium text-gray-900">email</th>
+          <th scope="col" class="px-6 py-4 font-medium text-gray-900">Email</th>
           <th scope="col" class="px-6 py-4 font-medium text-gray-900">Address</th>
           <th scope="col" class="px-6 py-4 font-medium text-gray-900"></th>
         </tr>
